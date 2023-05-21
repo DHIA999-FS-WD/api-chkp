@@ -1,0 +1,18 @@
+.userCard{
+    text-align: center;
+    background-color: white;
+    width: 400px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.userCard span {
+    font-size:large;
+    font-weight: 500;
+}
+
+.userList{
+    display: flex;
+    flex-wrap: wrap;
+}
